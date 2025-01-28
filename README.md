@@ -12,14 +12,13 @@ Comme le code allait être projeté sur un mur et dans la nuit, il fallait adapt
 ![image](https://github.com/user-attachments/assets/2feca862-29ee-4094-aff5-4776f6b8ec1c)
 
 Le projet de la Nuit des musées étant principalement à destination d'enfants, j'ai ajouté des images dans le background qui peuvent être utilisées comme modèles pour dessiner dessus. J'ai dessiné les images sur procreate (PNG sans fonds).
-Ces images sont centrées dans une grille de 3/3 dans le canva.
-Dans le code rendu ici publique, seules les images à destination des enfants sont accessibles. Dans l'image précédente, on peut voir l'une des images ayant été créées spécialement pour la Nuit des musées sur la mythologie romaine et les animaux associés à la nuit. Ces images ne sont pas disponibles ici, elles ont été créées spécialement pour le Musée romain de Lausanne-Vidy et pour mon usage personnel). Les images "pour enfant" disponibles ici sont à disposition du public, elles ont été créées en s'inspirant de dessins pour enfants disponibles gratuitement en ligne (pixabay etc), et elles ont été créées "en bonus".
+<br>Ces images sont centrées dans une grille de 3/3 dans le canva.
+<br>Dans le code rendu ici publique, seules les images à destination des enfants sont accessibles. Dans l'image précédente, on peut voir l'une des images ayant été créées spécialement pour la Nuit des musées sur la mythologie romaine et les animaux associés à la nuit. Ces images ne sont pas disponibles ici, elles ont été créées spécialement pour le Musée romain de Lausanne-Vidy et pour mon usage personnel). Les images "pour enfant" disponibles ici sont à disposition du public, elles ont été créées en s'inspirant de dessins pour enfants disponibles gratuitement en ligne (pixabay etc), et elles ont été créées "en bonus".
 
 <h2>Fonctionnalités</h2>
 La touche "Backspace" (effacer) permet d'effacer la dernière ligne tirée.
-La touche "Delete" (del) permet d'effacer toutes les lignes tirées.
-
-Dans le cadre de la version utilisée au musée, d'autres fonctionnalités avaient été ajoutées (ex. sauvegarde automatique de la fresque créée, récupération d'adresses mail pour envoyer ces images png aux visiteurs...). Elles ne sont pas reproduites dans ce code qui n'est pas à destination muséale. 
+<br>La touche "Delete" (del) permet d'effacer toutes les lignes tirées.
+<br><br>Dans le cadre de la version utilisée au musée, d'autres fonctionnalités avaient été ajoutées (ex. sauvegarde automatique de la fresque créée, récupération d'adresses mail pour envoyer ces images png aux visiteurs...). Elles ne sont pas reproduites dans ce code qui n'est pas à destination muséale. 
 
 <h1>Procédure d'installation</h1>
 En téléchargeant les éléments dans un dossier (par ex. sur le bureau), puis via Visual Studio Code en utilisant le Live Share ; ou via le terminal (mac) ou commande en utilisant un serveur local (http-server)
@@ -38,5 +37,5 @@ Permet la gestion facilitée d'éléments au sein du canva tel que :
 
 <h1>contexte de développement</h1>
 Ce projet a été développé dans le cadre du cours Développement de jeu vidéo 2D, dispensé par Isaac Pante (SLI, Lettres, UNIL, Semestre de printemps 2023).
-Il a été utilisé dans le cadre du cours Médiation culturelle, dispensé par Martine Ostorero (SPEC Médiation culturelle, Lettres, UNIL, Semestre de printemps 2024), en collaboration avec le Musée romain de Lausanne-Vidy.
+<br>Il a été utilisé dans le cadre du cours Médiation culturelle, dispensé par Martine Ostorero (SPEC Médiation culturelle, Lettres, UNIL, Semestre de printemps 2024), en collaboration avec le Musée romain de Lausanne-Vidy.
 Après présentation du projet théorique lors d'un atelier de transposition au Musée romain de Lausanne-Vidy durant lequel j'avais présenté un projet totalement théorique de médiation culturelle en immersion, j'ai codé un prototype de ce jeu et l'ai envoyé au Musée romain de Vidy pour voir s'ils étaient intéressés ; nous avons convenu de son utilisation dans le programme de médiation culturelle de la Nuit des musées (septembre 2024). 
