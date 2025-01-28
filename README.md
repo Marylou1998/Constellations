@@ -2,10 +2,13 @@
 <h1>Description du projet</h1>
 <h2>Le prototype</h2>
 Code de base pour donner l'idée du jeu : étoiles interactives générées aléatoirement à chaque itération, possibilité de les relier.
+
 ![image](https://github.com/user-attachments/assets/bce0428d-a4a8-4a60-87fd-12c2049a1263)
+
 
 <h2>Développement pour le contexte muséal</h2>
 Comme le code allait être projeté sur un mur et dans la nuit, il fallait adapter le code notamment pour que les étoiles soient suffisamment visibles. Pour le code à destination du musée elles ont donc été considérablement agrandies : 
+
 ![image](https://github.com/user-attachments/assets/2feca862-29ee-4094-aff5-4776f6b8ec1c)
 
 Le projet de la Nuit des musées étant principalement à destination d'enfants, j'ai ajouté des images dans le background qui peuvent être utilisées comme modèles pour dessiner dessus. J'ai dessiné les images sur procreate (PNG sans fonds).
@@ -20,7 +23,10 @@ Dans le cadre de la version utilisée au musée, d'autres fonctionnalités avaie
 
 <h1>Procédure d'installation</h1>
 En téléchargeant les éléments dans un dossier (par ex. sur le bureau), puis via Visual Studio Code en utilisant le Live Share ; ou via le terminal (mac) ou commande en utilisant un serveur local (http-server)
+
 Visualisation directe dans itch.io : 
+<br>https://maryloug.itch.io/constellations
+<br>mdp : nuit
 
 <h2>Librairie utilisée: P5.js</h2>
 Permet la gestion facilitée d'éléments au sein du canva tel que :
