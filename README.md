@@ -18,7 +18,10 @@ Le projet de la Nuit des musées étant principalement à destination d'enfants,
 <h2>Fonctionnalités</h2>
 La touche "Backspace" (effacer) permet d'effacer la dernière ligne tirée.
 <br>La touche "Delete" (del) permet d'effacer toutes les lignes tirées.
-<br><br>Dans le cadre de la version utilisée au musée, d'autres fonctionnalités avaient été ajoutées (ex. sauvegarde automatique de la fresque créée, récupération d'adresses mail pour envoyer ces images png aux visiteurs...). Elles ne sont pas reproduites dans ce code qui n'est pas à destination muséale. 
+<br>La touche "Enter" permet d'effectuer une capture d'écran de la fresque qui est automatiquement sauvegardée sous le nom "constellation.png".
+<br>La légende permet d'expliquer ces différentes fonctionnalités.
+<br><br>Dans le cadre de la version utilisée au musée, d'autres fonctionnalités avaient été ajoutées (ex. sauvegarde automatique de la fresque créée avec le nom donné par les utilisateurs à la fresque, récupération d'adresses mail pour envoyer ces images png aux visiteurs...). Elles ne sont pas reproduites dans ce code qui n'est pas à destination muséale. 
+
 
 <h1>Procédure d'installation</h1>
 En téléchargeant les éléments dans un dossier (par ex. sur le bureau), puis via Visual Studio Code en utilisant le Live Share ; ou via le terminal (mac) ou commande en utilisant un serveur local (http-server)
