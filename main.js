@@ -215,3 +215,14 @@ function undoLastLine() {
     console.log('Dernière ligne annulée !');
   }
 }
+
+document.addEventListener('keydown', function (event) {
+  if (event.key === 'Enter') {
+    event.preventDefault();
+    saveImage();
+  }
+});
+
+function saveImage() {
+  saveCanvas('constellations', 'png');
+}
