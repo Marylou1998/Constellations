@@ -53,6 +53,25 @@ function preload() {
   ];
 }
 
+window.addEventListener('load', function() {
+  document.getElementById('info-overlay').style.display = 'block';
+});
+
+window.addEventListener('click', function(event) {
+  if (!event.target.closest('#info-button') && !event.target.closest('#info-overlay')) {
+    document.getElementById('info-overlay').style.display = 'none';
+  }
+});
+
+document.getElementById('info-button').addEventListener('mouseover', function() {
+  document.getElementById('info-overlay').style.display = 'block';
+});
+
+document.getElementById('info-button').addEventListener('mouseleave', function() {
+  document.getElementById('info-overlay').style.display = 'none';
+});
+
+
 function setup() {
   let canvas = createCanvas(windowWidth, windowHeight);
   canvas.parent('canvas-container');
